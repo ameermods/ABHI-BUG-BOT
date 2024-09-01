@@ -6,7 +6,7 @@ global.ownernomer = "917530060988"
 global.ownername = "Ameer ser"
 global.ytname = "YT: Comedy Melody CH"
 global.socialm = "GitHub: DGXeon"
-global.location = "India, Kerala, Idukki"
+global.location = "India, Kerala, Thiruvananthapuram"
 
 global.ownernumber = '917530060988'  //creator number
 global.ownername = 'Ameer ser' //owner name
